@@ -1,0 +1,6 @@
+{
+  "name": "CloudOps FinOps Dashboard",
+  "description": "A real-time multi-cloud financial operations dashboard with automated cost anomaly alerts, spending trends, and an interactive server-side Gemini powered AI optimizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
